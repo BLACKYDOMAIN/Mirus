@@ -1,0 +1,19 @@
+*END SEMESTER EXAM TIME TABLE SEM 6*
+
+*DATE*		*SUBJECT*
+
+28-4 (Mon) 	Crypto
+	1 day
+30-4 (Wed)	Risk
+	3 days
+03-5 (Sat) 	Auto
+	2 days
+06-5 (Tue)	Storage Tech
+	1 day
+08-5 (Thu)	Cloud
+	1 day
+10-5 (Sat)	Ethics
+	2 days
+13-5 (Tue)	Cyber
+	3 days
+17-5 (Sat)	IIoT

@@ -1,0 +1,12 @@
+official documentation:
+
+https://docs.virustotal.com/reference/overview
+
+git python codes:
+
+https://github.com/VirusTotal/vt-py
+
+git cli equivalent:
+
+https://github.com/VirusTotal/vt-cli
+
